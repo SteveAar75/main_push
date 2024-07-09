@@ -1,0 +1,1 @@
+box = input("TYPE SMT>>> ")
